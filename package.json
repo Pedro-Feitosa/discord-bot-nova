@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon play.js"
+    "start": "node play.js"
   },
   "keywords": [],
   "author": "",
